@@ -1,4 +1,4 @@
-#Calculadora de Partidas Rankeadas 🎮
+# Calculadora de Partidas Rankeadas 🎮
 
 Este projeto é uma calculadora de partidas ranqueadas desenvolvida em JavaScript puro. O objetivo é determinar o saldo de vitórias e derrotas de um jogador e definir o nível correspondente com base no número de vitórias.
 
@@ -11,7 +11,7 @@ Menos de 10 vitórias: Ferro
 91 a 100 vitórias: Lendário
 Mais de 100 vitórias: Imortal
 
-##Como Funciona?
+## Como Funciona?
 
 O usuário informa a quantidade de vitórias e derrotas através de prompts no terminal.
 O programa calcula o saldo de vitórias (vitórias - derrotas).
